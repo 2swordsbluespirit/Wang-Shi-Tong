@@ -6,12 +6,12 @@
 
 ### Credits
 
-• [FayasKKD](https://github.com/FayasKKD/Bio) for this Repository 
+• [FayasKKD](https://github.com/2swordsbluespirit/Wang-Shi-Tong/Bio) for this Repository 
 
-• [Paul Larsen](https://github.com/PaulSonOfLars) for his [tgbot](https://github.com/PaulSonOfLars/tgbot) Repository and [Miss Rose Bot](https://t.me/MissRose_bot)
+• [Paul Larsen](https://github.com/2swordsbluespirit/Wang-Shi-Tong) for his [tgbot](https://github.com/2swordsbluespirit/Wang-Shi-Tong) Repository and [Miss Rose Bot](https://t.me/AvatarSriLanka)
 
 • [Dan Tes](https://github.com/delivrance) For his [Pyrogram](https://docs.pyrogram.org/) Library
 
 ## Profile
 
-![Rose Profile](https://telegra.ph/file/718d48493d1fb11197d8b.jpg)
+![Rose Profile](https://telegra.ph/Wang-Shi-Tong-04-22)
