@@ -1,8 +1,8 @@
 
 {
   "name": "Miss Rose",
-  "logo": "https://telegra.ph/file/48522f7be29b993a19e60.jpg",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "logo": "https://telegra.ph/Wang-Shi-Tong-04-22-2",
+  "description": "Telegram's smartest group manager. Modular Telegram group management bot from the spirit library!",
   "keywords": [
     "telegram",
     "best",
@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/FayasKKD/Miss-Rose-Bot",
+  "repository": "https://github.com/2swordsbluespirit/Wang-Shi-Tong",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
