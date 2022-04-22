@@ -6,7 +6,7 @@
 
 ### Credits
 
-• [FayasKKD](https://github.com/2swordsbluespirit/Wang-Shi-Tong/Bio) for this Repository 
+• [FayasKKD](https://github.com/2swordsbluespirit/Wang-Shi-Tong) for this Repository 
 
 • [Paul Larsen](https://github.com/2swordsbluespirit/Wang-Shi-Tong) for his [tgbot](https://github.com/2swordsbluespirit/Wang-Shi-Tong) Repository and [Miss Rose Bot](https://t.me/AvatarSriLanka)
 
